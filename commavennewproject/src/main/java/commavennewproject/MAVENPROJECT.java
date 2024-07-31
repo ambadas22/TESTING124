@@ -11,7 +11,7 @@ public class MAVENPROJECT {
 	@Test
 	public void checkloginpage1() throws InterruptedException {
 		
-		System.out.println("dashboard test1");
+		System.out.println("dashboard test1 ");
 		
 //		System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
 //
